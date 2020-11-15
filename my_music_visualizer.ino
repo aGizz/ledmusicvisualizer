@@ -28,12 +28,6 @@ int Frequencies_One[7];
 int Frequencies_Two[7];
 int i;
 
-//variable for scrolling color
-int k;
-
-
-
-
 
 void setup() {
 /********************************SHIELD SETUP*************************/
